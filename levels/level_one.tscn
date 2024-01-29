@@ -53030,5 +53030,3 @@ layer_2/tile_data = PackedInt32Array(983062, 2, 7, 1048598, 2, 8, 1114134, 2, 9,
 position = Vector2(173, 141)
 
 [node name="HeightAdjuster" parent="grek" instance=ExtResource("9_p3ny8")]
-ground_layer = 1
-high_layer = 7
