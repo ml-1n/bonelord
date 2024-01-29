@@ -281,6 +281,7 @@ animations = [{
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_5hmww"]
 
 [node name="grek" type="CharacterBody2D"]
+collision_mask = 31
 script = ExtResource("1_ldjd1")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
@@ -290,3 +291,7 @@ animation = &"idle"
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-7, 3)
 shape = SubResource("RectangleShape2D_5hmww")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
+position_smoothing_enabled = true
