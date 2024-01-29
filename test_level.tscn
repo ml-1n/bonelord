@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddmpjitqejqwp"]
+
+[ext_resource type="PackedScene" uid="uid://cx0etpn2qkl2v" path="res://grek.tscn" id="1_8il5t"]
+
+[node name="test_level" type="Node2D"]
+
+[node name="grek" parent="." instance=ExtResource("1_8il5t")]
