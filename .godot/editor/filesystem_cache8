@@ -1,0 +1,35 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706488487
+icon.svg::CompressedTexture2D::4161991134040371614::1706488294::1706488453::1::::<><>::
+README.md::TextFile::-1::1706488294::0::1::::<><>::
+::res://assets/::1706488595
+::res://assets/Bot Wheel/::1706488514
+charge.png::CompressedTexture2D::2490360838588797798::1618019802::1706488623::1::::<><>::
+damaged.png::CompressedTexture2D::5590522174381478823::1618019958::1706488623::1::::<><>::
+death.png::CompressedTexture2D::4457004170066434263::1618019970::1706488622::1::::<><>::
+GAS dash FX.png::CompressedTexture2D::5712772773246649282::1618019910::1706488622::1::::<><>::
+GAS dash with FX.png::CompressedTexture2D::8493650027574697974::1618019922::1706488622::1::::<><>::
+move FX.png::CompressedTexture2D::3311704251965167079::1618019782::1706488622::1::::<><>::
+move with FX.png::CompressedTexture2D::7488569071138845955::1618019746::1706488622::1::::<><>::
+move without FX.png::CompressedTexture2D::3211541231279383025::1618019760::1706488622::1::::<><>::
+shoot FX.png::CompressedTexture2D::9096366818577321358::1618019884::1706488622::1::::<><>::
+shoot with FX.png::CompressedTexture2D::1376429862310158833::1618019832::1706488621::1::::<><>::
+shoot without FX.png::CompressedTexture2D::6578628553573289424::1618019864::1706488621::1::::<><>::
+static idle.png::CompressedTexture2D::1159751021676246853::1618019696::1706488621::1::::<><>::
+wake.png::CompressedTexture2D::7871186936528982667::1618019720::1706488621::1::::<><>::
+::res://assets/Forest/::1706488575
+Forest Cliff.png::CompressedTexture2D::3211454609122998952::1679592988::1706488621::1::::<><>::
+Forest Props.png::CompressedTexture2D::654931211865850372::1679592468::1706488621::1::::<><>::
+Forest Structures.png::CompressedTexture2D::8028782635487938698::1684187883::1706488621::1::::<><>::
+Forest Tilesett.png::CompressedTexture2D::1059379400173357475::1679588618::1706488620::1::::<><>::
+Sample.png::CompressedTexture2D::5488421185219921121::1684187707::1706488621::1::::<><>::
+Settlement.png::CompressedTexture2D::8067888680540291151::1684187633::1706488620::1::::<><>::
+Trees.png::CompressedTexture2D::2990536927973920973::1679588552::1706488620::1::::<><>::
+Water Tileset.png::CompressedTexture2D::5995117809199020968::1679594658::1706488620::1::::<><>::
+::res://assets/Knights/::1706488607
+16x16 knight 1 v3.png::CompressedTexture2D::8846563153060663977::1604366598::1706488619::1::::<><>::
+16x16 knight 2 v3.png::CompressedTexture2D::1083495840500132585::1604366650::1706488619::1::::<><>::
+16x16 knight 3 v3.png::CompressedTexture2D::5323864873017496574::1604366730::1706488619::1::::<><>::
+16x16 knight 4 v3.png::CompressedTexture2D::6238118264370347250::1604366785::1706488619::1::::<><>::
+animation frames guide.txt::TextFile::-1::1604367038::0::1::::<><>::
+public-license.txt::TextFile::-1::1600001727::0::1::::<><>::
