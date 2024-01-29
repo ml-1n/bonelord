@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-const MOVE_SPEED = 400.0
+const MOVE_SPEED = 200.0
 const DASH_MULTIPLIER = 10
 
 var move_direction

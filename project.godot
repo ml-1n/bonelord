@@ -50,11 +50,14 @@ action_dash={
 
 [layer_names]
 
-2d_physics/layer_1="player"
-2d_physics/layer_2="walls"
+2d_physics/layer_1="ground"
+2d_physics/layer_2="player"
 2d_physics/layer_3="enemies"
 2d_physics/layer_4="items"
 2d_physics/layer_5="bullets"
+2d_physics/layer_6="walls"
+2d_physics/layer_7="above_ground"
+2d_physics/layer_8="roofs"
 
 [rendering]
 
